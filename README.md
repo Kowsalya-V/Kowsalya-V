@@ -1,6 +1,6 @@
 ## Hi, I'm Kowsalya 👋
 
-Java Developer | Data Visualization Enthusiast | DSA Learner  
+Java | Data Visualization Enthusiast | DSA Learner  
 📍 Erode, Tamil Nadu, India  
 🎓 Velalar College of Engineering & Technology  
 
